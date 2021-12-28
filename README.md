@@ -90,3 +90,6 @@ Load: 3.116s
 
 Plotting: 9s
 
+# Conclusion:
+
+python is faster than java in most cases, but matplotlib is way, way slower than java frame.
